@@ -1,13 +1,13 @@
 <h1 align="center">Hai, aku Asya! 👋✨</h1>
 
-<h3 align="center">Annisya Maulidina Chuswah — Siswi RPL cinta coding 💻🌸</h3>
+<h3 align="center">Annisya Maulidina Chuswah — Siswa RPL yang lagi seru-serunya belajar coding 💻🌸</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75590&center=true&vCenter=true&width=500&lines=Software+Developer+in+Progress+%F0%9F%9A%80;RPL+Student+%7C+Tech+%26+Design+Enthusiast;Suka+ngoding%2C+nyanyi%2C+sama+baca+buku+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <img src="https://raw.githubusercontent.com/asayasa02/asayasa02/main/Me.jpeg" width="250" style="border-radius: 50%;">
 </p>
 
 ---
