@@ -1,18 +1,26 @@
-<h1 align="center">Hai, aku Asya! 👋✨</h1>
+<div align="center">
 
-<h3 align="center">Annisya Maulidina Chuswah — Siswa RPL yang lagi seru-serunya belajar coding 💻🌸</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hai,%20Aku%20Asya!%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20%26%20UI%2FUX%20Enthusiast%20from%20Indonesia&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75590&center=true&vCenter=true&width=500&lines=Software+Developer+in+Progress+%F0%9F%9A%80;RPL+Student+%7C+Tech+%26+Design+Enthusiast;Suka+ngoding%2C+nyanyi%2C+sama+baca+buku+%F0%9F%93%9A" alt="Typing SVG" />
-</p>
+<img src="https://raw.githubusercontent.com/asayasa02/asayasa02/main/Me.jpeg" width="150" style="border-radius: 50%; border: 4px solid #F75590; margin-top: 10px;">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/asayasa02/asayasa02/main/Me.jpeg" width="250" style="border-radius: 50%;">
-</p>
+### Annisya Maulidina Chuswah
+**Siswa RPL yang lagi seru-serunya belajar tech & design 🌸**
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=F75590&center=true&vCenter=true&width=600&lines=Software+Developer+in+Progress+%F0%9F%9A%80;UI%2FUX+%26+Game+Dev+Enthusiast+%F0%9F%8E%A8;IoT+Tinkerer+%7C+Public+Speaker+%F0%9F%8E%A4;Suka+ngoding%2C+nyanyi%2C+sama+baca+buku+%F0%9F%93%9A" alt="Typing SVG" />
 
-### 🌸 Tentang Aku
+<br>
+
+<a href="https://instagram.com/dokjasya" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:maulsya123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=asayasa02&label=Profile%20Views&color=f75590&style=for-the-badge" alt="profile views"/>
+
+</div>
+
+<br>
+
+## 🌸 Tentang Aku
 
 ```yaml
 Nama:        Annisya Maulidina Chuswah
@@ -20,73 +28,76 @@ Panggilan:   Asya
 Sekolah:     SMK - Rekayasa Perangkat Lunak (RPL)
 Lokasi:      Indonesia 🇮🇩
 Status:      Belajar & terus berkembang setiap hari 🌱
+
+Sedang:      Mendalami development, IoT, dan Game Dev Design
+Bisa:        Public speaking, presentasi, editing Canva
+Suka:        Baca buku 📖, nyanyi 🎶, dan jeketian (JKT48) 🩷
 ```
 
-- 🔭 Lagi belajar & explore dunia development, IoT, sama Game Dev Design
-- 🎨 Suka desain UI/UX & ngedit-ngedit di Canva
-- 🎤 Bisa public speaking & presentasi (jangan ragu ajak kolaborasi!)
-- 🎧 Hobi: baca buku 📖, nyanyi 🎶, sama jeketian (JKT48) 🩷
-- 💬 Ask me about: PHP, Python, MySQL, Ren'Py, Figma, Arduino
+<br>
 
----
+## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack & Tools
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ren'Py-FF6B9D?style=for-the-badge&logo=renpy&logoColor=white" />
-</p>
+**Programming & Database**
+<br>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-3EB489?style=for-the-badge&logo=internetarchive&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
+**Design & Game Dev**
+<br>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ren'Py-FF6B9D?style=for-the-badge&logo=renpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-FF69B4?style=for-the-badge&logo=figma&logoColor=white"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF69B4?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/GDD-FF7F50?style=for-the-badge&logo=gamedeveloper&logoColor=white" />
-</p>
+**Hardware & IoT**
+<br>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT-3EB489?style=for-the-badge&logo=internetarchive&logoColor=white"/>
 
----
+</div>
 
-### 💫 Soft Skills
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Public%20Speaking-FFD93D?style=flat-square&logoColor=black" />
-  <img src="https://img.shields.io/badge/Presentasi-6BCB77?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva%20Editing-FF6B9D?style=flat-square&logoColor=white" />
-</p>
+## 💫 Soft Skills
 
----
+<div align="center">
+<img src="https://img.shields.io/badge/🎤_Public_Speaking-FFD93D?style=flat-square"/>
+<img src="https://img.shields.io/badge/📊_Presentasi-6BCB77?style=flat-square"/>
+<img src="https://img.shields.io/badge/🎨_Canva_Editing-FF6B9D?style=flat-square"/>
+</div>
 
-### 📊 GitHub Stats
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asayasa02&show_icons=true&theme=radical&hide_border=true&title_color=F75590&icon_color=F75590&text_color=ffffff&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asayasa02&theme=radical&hide_border=true&background=0D1117&ring=F75590&fire=F75590" width="48%" />
-</p>
+## 📊 GitHub Stats
 
----
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=asayasa02&show_icons=true&theme=radical&hide_border=true&title_color=F75590&icon_color=F75590&text_color=ffffff&bg_color=0D1117" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asayasa02&theme=radical&hide_border=true&background=0D1117&ring=F75590&fire=F75590" height="165"/>
+</div>
 
-### 🌐 Let's Connect!
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asayasa02&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75590&text_color=ffffff" />
+</div>
 
-<p align="center">
-  <a href="https://instagram.com/dokjasya" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:maulsya123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asayasa02&label=Profile%20Views&color=f75590&style=flat" alt="profile views" />
-</p>
+## 🏆 GitHub Trophies
 
-<p align="center">✨ Terima kasih udah mampir! Jangan lupa senyum hari ini 🌸 ✨</p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=asayasa02&theme=radical&no-frame=true&no-bg=false&margin-w=10&column=6"/>
+</div>
+
+<br>
+
+<div align="center">
+
+### ✨ "Belajar sedikit demi sedikit, asal konsisten, pasti sampai." ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
