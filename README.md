@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hai,%20Aku%20Asya!%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20%26%20UI%2FUX%20Enthusiast%20from%20Indonesia&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF176,50:FFB6C1,100:F75590&height=220&section=header&text=Hai,%20Aku%20Asya!%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20%26%20UI%2FUX%20Enthusiast%20from%20Indonesia&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/asayasa02/asayasa02/main/Me.jpeg" width="150" style="border-radius: 50%; border: 4px solid #F75590; margin-top: 10px;">
 
@@ -11,8 +11,8 @@
 
 <br>
 
-<a href="https://instagram.com/dokjasya" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:maulsya123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/dokjasya" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:maulsya123@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFD93D?style=for-the-badge&logo=gmail&logoColor=333333"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=asayasa02&label=Profile%20Views&color=f75590&style=for-the-badge" alt="profile views"/>
 
@@ -42,22 +42,22 @@ Suka:        Baca buku 📖, nyanyi 🎶, dan jeketian (JKT48) 🩷
 
 **Programming & Database**
 <br>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-FFB6C1?style=for-the-badge&logo=php&logoColor=333333"/>
+<img src="https://img.shields.io/badge/Python-FFD93D?style=for-the-badge&logo=python&logoColor=333333"/>
+<img src="https://img.shields.io/badge/MySQL-F75590?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-FFB6C1?style=for-the-badge&logo=supabase&logoColor=333333"/>
 
 **Design & Game Dev**
 <br>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ren'Py-FF6B9D?style=for-the-badge&logo=renpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/UI%2FUX%20Design-FF69B4?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-FFD93D?style=for-the-badge&logo=figma&logoColor=333333"/>
+<img src="https://img.shields.io/badge/Canva-F75590?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ren'Py-FFB6C1?style=for-the-badge&logo=renpy&logoColor=333333"/>
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-FFD93D?style=for-the-badge&logo=figma&logoColor=333333"/>
 
 **Hardware & IoT**
 <br>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/IoT-3EB489?style=for-the-badge&logo=internetarchive&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-F75590?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT-FFB6C1?style=for-the-badge&logo=internetarchive&logoColor=333333"/>
 
 </div>
 
@@ -66,9 +66,9 @@ Suka:        Baca buku 📖, nyanyi 🎶, dan jeketian (JKT48) 🩷
 ## 💫 Soft Skills
 
 <div align="center">
-<img src="https://img.shields.io/badge/🎤_Public_Speaking-FFD93D?style=flat-square"/>
-<img src="https://img.shields.io/badge/📊_Presentasi-6BCB77?style=flat-square"/>
-<img src="https://img.shields.io/badge/🎨_Canva_Editing-FF6B9D?style=flat-square"/>
+<img src="https://img.shields.io/badge/🎤_Public_Speaking-FFD93D?style=flat-square&logoColor=333333"/>
+<img src="https://img.shields.io/badge/📊_Presentasi-FFB6C1?style=flat-square&logoColor=333333"/>
+<img src="https://img.shields.io/badge/🎨_Canva_Editing-F75590?style=flat-square&logoColor=white"/>
 </div>
 
 <br>
@@ -76,12 +76,12 @@ Suka:        Baca buku 📖, nyanyi 🎶, dan jeketian (JKT48) 🩷
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=asayasa02&show_icons=true&theme=radical&hide_border=true&title_color=F75590&icon_color=F75590&text_color=ffffff&bg_color=0D1117" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asayasa02&theme=radical&hide_border=true&background=0D1117&ring=F75590&fire=F75590" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=asayasa02&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=F75590&icon_color=FFB84D&text_color=555555&border_color=FFB6C1" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asayasa02&hide_border=true&background=FFFFFF&ring=F75590&fire=FFB84D&currStreakLabel=F75590&sideLabels=555555&currStreakNum=333333&sideNums=333333&dates=999999" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asayasa02&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75590&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asayasa02&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=F75590&text_color=555555" />
 </div>
 
 <br>
@@ -89,7 +89,7 @@ Suka:        Baca buku 📖, nyanyi 🎶, dan jeketian (JKT48) 🩷
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=asayasa02&theme=radical&no-frame=true&no-bg=false&margin-w=10&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=asayasa02&theme=flat&no-frame=true&margin-w=10&column=6&title=Commits,Stars,Followers,PullRequest,Repositories"/>
 </div>
 
 <br>
@@ -98,6 +98,6 @@ Suka:        Baca buku 📖, nyanyi 🎶, dan jeketian (JKT48) 🩷
 
 ### ✨ "Belajar sedikit demi sedikit, asal konsisten, pasti sampai." ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75590,50:FFB6C1,100:FFF176&height=100&section=footer" width="100%"/>
 
 </div>
