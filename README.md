@@ -13,13 +13,13 @@
 <br/><br/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=F75590&center=true&vCenter=true&width=700&height=50&lines=🎨+UI%2FUX+Designer+Intern+%40+Red+Ant+Colony;🚀+Software+Developer+in+Progress;🎮+Game+Dev+%26+IoT+Enthusiast;🎤+Public+Speaker+%7C+Lifelong+Learner;Suka+ngoding%2C+nyanyi%2C+sama+baca+buku+📚" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=F75590&center=true&vCenter=true&width=700&height=50&lines=🎨+UI%2FUX+Designer+Intern+%40+Red+Ant+Colony;🚀+Software+Developer+in+Progress;🎮+Game+Dev+%26+IoT+Enthusiast;🎤+Public+Speaker+%7C+Lifelong+Learner;Loves+coding%2C+singing%2C+and+reading+books+📚" alt="Typing SVG"/>
 
 <br/><br/>
 
 <!-- Info Badges -->
 <img src="https://img.shields.io/badge/🎨_Intern_@_Red_Ant_Colony-F75590?style=for-the-badge&labelColor=FFB6C1&color=F75590"/>
-<img src="https://img.shields.io/badge/📚_RPL_Student-FFD93D?style=for-the-badge&labelColor=FFB6C1&color=FFD93D"/>
+<img src="https://img.shields.io/badge/📚_Software_Engineering_Student-FFD93D?style=for-the-badge&labelColor=FFB6C1&color=FFD93D"/>
 <img src="https://img.shields.io/badge/📍_Indonesia-FFB6C1?style=for-the-badge&labelColor=F75590&color=FFB6C1"/>
 <img src="https://komarev.com/ghpvc/?username=asayasa02&label=Visitors&style=for-the-badge&color=F75590&labelColor=FFB6C1"/>
 
@@ -52,7 +52,7 @@
 
 <br/>
 
-*Belajar design thinking, user research, wireframing, dan prototyping untuk memberikan pengalaman terbaik bagi pengguna ✨*
+*Learning design thinking, user research, wireframing, and prototyping to deliver the best user experience ✨*
 
 </td>
 </tr>
@@ -65,27 +65,27 @@
 
 <br/>
 
-## 🌸 Tentang Aku
+## 🌸 About Me
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-👤 **Nama:** Annisya Maulidina Chuswah<br/>
-🌷 **Panggilan:** Asya<br/>
-🎓 **Jurusan:** Rekayasa Perangkat Lunak (RPL)<br/>
-📍 **Lokasi:** Indonesia 🇮🇩<br/>
+👤 **Name:** Annisya Maulidina Chuswah<br/>
+🌷 **Nickname:** Asya<br/>
+🎓 **Major:** Software Engineering<br/>
+📍 **Location:** Indonesia 🇮🇩<br/>
 💼 **Internship:** UI/UX Designer @ Red Ant Colony 🐜<br/>
-🌱 **Status:** Belajar & terus berkembang<br/><br/>
+🌱 **Status:** Learning & continuously growing<br/><br/>
 
-💡 **Sedang:** Mendalami UI/UX Design, Development, IoT & Game Dev<br/>
-🎯 **Skills:** Public speaking, presentasi, design & editing<br/>
-💖 **Suka:** Baca buku 📖, nyanyi 🎶, dan jeketian (JKT48) 🩷
+💡 **Currently:** Exploring UI/UX Design, Software Development, IoT & Game Dev<br/>
+🎯 **Skills:** Public speaking, presentation, design & editing<br/>
+💖 **Interests:** Reading books 📖, singing 🎶, and listening to JKT48 🩷
 
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=15&duration=2500&pause=800&color=F75590&center=true&vCenter=true&width=300&height=180&lines=🌱+Lagi+belajar%3A;🎨+UI%2FUX+Design+%40+Figma;✨+Design+System+%26+Prototyping;🎮+Game+Dev+with+Ren'Py;🤖+IoT+%2B+Arduino;💻+Backend+PHP+%26+Laravel" alt="Currently learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=15&duration=2500&pause=800&color=F75590&center=true&vCenter=true&width=300&height=180&lines=🌱+Currently+learning%3A;🎨+UI%2FUX+Design+%40+Figma;✨+Design+System+%26+Prototyping;🎮+Game+Dev+with+Ren'Py;🤖+IoT+%2B+Arduino;💻+Backend+PHP+%26+Laravel" alt="Currently learning"/>
 
 </td>
 </tr>
@@ -137,7 +137,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/🎤_Public_Speaking-FFD93D?style=for-the-badge&labelColor=FFD93D&color=FFB6C1"/>
-<img src="https://img.shields.io/badge/📊_Presentasi-FFB6C1?style=for-the-badge&labelColor=FFB6C1&color=F75590"/>
+<img src="https://img.shields.io/badge/📊_Presentation-FFB6C1?style=for-the-badge&labelColor=FFB6C1&color=F75590"/>
 <img src="https://img.shields.io/badge/🎨_Design_Thinking-F75590?style=for-the-badge&labelColor=F75590&color=FFD93D"/>
 <br/>
 <img src="https://img.shields.io/badge/🧠_User_Research-FFD93D?style=for-the-badge&labelColor=FFB6C1&color=F75590"/>
@@ -177,11 +177,11 @@
 
 <div align="center">
 
-### ✨ "Belajar sedikit demi sedikit, asal konsisten, pasti sampai." ✨
+### ✨ "Learn step by step, stay consistent, and you will get there." ✨
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=4000&pause=1000&color=F75590&center=true&vCenter=true&width=600&lines=Thanks+udah+mampir+ke+profilku!+🥰;Let's+connect+%26+create+something+beautiful+✨;Open+for+collaboration+%26+design+chat!+🎨" alt="Thanks"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=4000&pause=1000&color=F75590&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🥰;Let's+connect+%26+create+something+beautiful+✨;Open+for+collaboration+%26+design+chat!+🎨" alt="Thanks"/>
 
 <br/><br/>
 
