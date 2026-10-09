@@ -5,8 +5,8 @@
 
 <br/><br/>
 
-<!-- 💡 TEMPAT GIF PILIHAN KAMU (Ganti link https://... di bawah ini dengan link GIF kamu) -->
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="380" alt="GIF"/>
+<!-- GIF Pilihan Kamu -->
+<img src="https://media.giphy.com/media/xUNd9ZXsddEeJcHz4Q/giphy.gif" width="380" alt="GIF"/>
 
 <br/><br/>
 
