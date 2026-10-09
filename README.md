@@ -1,21 +1,20 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,30&height=240&section=header&text=✨%20Hi,%20I'm%20Asya!%20✨&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Annisya%20Maulidina%20Chuswah%20🌸%20|%20UI/UX%20Designer%20in%20the%20Making&descSize=15&descAlignY=55" width="100%" alt="header"/>
+<!-- Banner Persegi Warna PINK -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FFB6C1,F75590,FF80BF&height=180&section=header&text=✨%20Hi,%20I'm%20Asya!%20✨&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Annisya%20Maulidina%20Chuswah%20🌸%20|%20UI/UX%20Designer%20in%20the%20Making&descSize=15&descAlignY=65" width="100%" alt="Header Banner"/>
+
+<br/><br/>
+
+<!-- 💡 TEMPAT GIF PILIHAN KAMU (Ganti link https://... di bawah ini dengan link GIF kamu) -->
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="380" alt="GIF"/>
+
+<br/><br/>
+
+<!-- Deskripsi Singkat (Pengganti Typing SVG biar gak error) -->
+<h3>🎨 UI/UX Designer Intern @ Red Ant Colony</h3>
+<p><i>Software Developer in Progress | Lifelong Learner | Loves coding & reading books 📚</i></p>
 
 <br/>
-
-<!-- Foto Profil -->
-<a href="https://github.com/asayasa02">
-  <img src="https://raw.githubusercontent.com/asayasa02/asayasa02/main/Me.jpeg" width="140" alt="Asya"/>
-</a>
-
-<br/><br/>
-
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=F75590&center=true&vCenter=true&width=700&height=50&lines=🎨+UI%2FUX+Designer+Intern+%40+Red+Ant+Colony;🚀+Software+Developer+in+Progress;🎮+Game+Dev+%26+IoT+Enthusiast;🎤+Public+Speaker+%7C+Lifelong+Learner;Loves+coding%2C+singing%2C+and+reading+books+📚" alt="Typing SVG"/>
-
-<br/><br/>
 
 <!-- Info Badges -->
 <img src="https://img.shields.io/badge/🎨_Intern_@_Red_Ant_Colony-F75590?style=for-the-badge&labelColor=FFB6C1&color=F75590"/>
@@ -86,12 +85,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=2500&pause=800&color=F75590&center=true&vCenter=true&width=500&height=50&lines=🌱+Currently+learning+UI/UX+Design;✨+Exploring+Design+Systems;🎮+Learning+Game+Dev+with+Ren'Py;🤖+Tinkering+with+IoT+and+Arduino" alt="Learning"/>
-</div>
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
@@ -147,12 +140,8 @@
 
 ### ✨ "Learn step by step, stay consistent, and you will get there." ✨
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=4000&pause=1000&color=F75590&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🥰;Let's+connect+%26+create+something+beautiful+✨;Open+for+collaboration+%26+design+chat!+🎨" alt="Thanks"/>
-
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,30&height=130&section=footer&text=Have%20a%20nice%20day!%20🌸&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FFB6C1,F75590,FF80BF&height=80&section=footer" width="100%" alt="footer"/>
 
 </div>
