@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<!-- Deskripsi Singkat (Pengganti Typing SVG biar gak error) -->
+<!-- Deskripsi Singkat -->
 <h3>🎨 UI/UX Designer Intern @ Red Ant Colony</h3>
 <p><i>Software Developer in Progress | Lifelong Learner | Loves coding & reading books 📚</i></p>
 
@@ -66,20 +66,47 @@
 
 ## 🌸 About Me
 
-<div align="left">
+<div align="center">
 
-👤 **Full Name:** Annisya Maulidina Chuswah  
-🌷 **Nickname:** Asya  
-🎓 **Major:** Software Engineering  
-📍 **Location:** Indonesia 🇮🇩  
-💼 **Role:** UI/UX Designer Intern @ Red Ant Colony 🐜  
-🌱 **Status:** Lifelong Learner & Tech Enthusiast  
+<table>
+<tr>
+<td width="50%" valign="top" align="left">
 
----
+### 👤 Quick Bio
+- 📛 **Full Name:** Annisya Maulidina Chuswah
+- 🌷 **Nickname:** Asya
+- 🎓 **Major:** Software Engineering
+- 📍 **Location:** Indonesia 🇮🇩
+- 💼 **Current Role:**  
+  └ 🎨 **UI/UX Designer Intern** @ Red Ant Colony 🐜
+- 🌱 **Mindset:** Lifelong Learner & Tech Enthusiast
 
-💡 **Current Focus:** UI/UX Design, Web Development, IoT & Game Development  
-🎯 **Skills:** Public Speaking, Presentation, Graphic Design & Video Editing  
-💖 **Interests:** Reading Books 📖, Singing 🎶, and JKT48 🩷  
+</td>
+<td width="50%" valign="top" align="left">
+
+### 💡 Current Focus
+<img src="https://img.shields.io/badge/🎨_UI/UX_Design-FFB6C1?style=flat-square&labelColor=F75590"/>
+<img src="https://img.shields.io/badge/💻_Web_Development-FFD93D?style=flat-square&labelColor=FFB6C1"/>
+<br/>
+<img src="https://img.shields.io/badge/🤖_IoT_&_Arduino-FFB6C1?style=flat-square&labelColor=FFD93D"/>
+<img src="https://img.shields.io/badge/🎮_Game_Development-F75590?style=flat-square&labelColor=FFB6C1"/>
+
+<br/>
+
+### 🎯 Key Skills
+<img src="https://img.shields.io/badge/🎤_Public_Speaking-FFD93D?style=flat-square&labelColor=FFB6C1"/>
+<img src="https://img.shields.io/badge/📊_Presentation-FFB6C1?style=flat-square&labelColor=F75590"/>
+<br/>
+<img src="https://img.shields.io/badge/🎨_Graphic_&_Video_Editing-F75590?style=flat-square&labelColor=FFD93D"/>
+
+<br/>
+
+### 💖 What I Love
+📖 Reading Books &nbsp;|&nbsp; 🎶 Singing &nbsp;|&nbsp; 🩷 JKT48
+
+</td>
+</tr>
+</table>
 
 </div>
 
