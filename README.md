@@ -52,7 +52,7 @@
 
 <br/>
 
-*Learning design thinking, user research, wireframing, and prototyping to deliver the best user experience ✨*
+*Focusing on design thinking, user research, wireframing, and prototyping to create meaningful user experiences ✨*
 
 </td>
 </tr>
@@ -67,29 +67,28 @@
 
 ## 🌸 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<div align="left">
 
-👤 **Name:** Annisya Maulidina Chuswah<br/>
-🌷 **Nickname:** Asya<br/>
-🎓 **Major:** Software Engineering<br/>
-📍 **Location:** Indonesia 🇮🇩<br/>
-💼 **Internship:** UI/UX Designer @ Red Ant Colony 🐜<br/>
-🌱 **Status:** Learning & continuously growing<br/><br/>
+👤 **Full Name:** Annisya Maulidina Chuswah  
+🌷 **Nickname:** Asya  
+🎓 **Major:** Software Engineering  
+📍 **Location:** Indonesia 🇮🇩  
+💼 **Role:** UI/UX Designer Intern @ Red Ant Colony 🐜  
+🌱 **Status:** Lifelong Learner & Tech Enthusiast  
 
-💡 **Currently:** Exploring UI/UX Design, Software Development, IoT & Game Dev<br/>
-🎯 **Skills:** Public speaking, presentation, design & editing<br/>
-💖 **Interests:** Reading books 📖, singing 🎶, and listening to JKT48 🩷
+---
 
-</td>
-<td width="40%" valign="top" align="center">
+💡 **Current Focus:** UI/UX Design, Web Development, IoT & Game Development  
+🎯 **Skills:** Public Speaking, Presentation, Graphic Design & Video Editing  
+💖 **Interests:** Reading Books 📖, Singing 🎶, and JKT48 🩷  
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=15&duration=2500&pause=800&color=F75590&center=true&vCenter=true&width=300&height=180&lines=🌱+Currently+learning%3A;🎨+UI%2FUX+Design+%40+Figma;✨+Design+System+%26+Prototyping;🎮+Game+Dev+with+Ren'Py;🤖+IoT+%2B+Arduino;💻+Backend+PHP+%26+Laravel" alt="Currently learning"/>
+</div>
 
-</td>
-</tr>
-</table>
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=2500&pause=800&color=F75590&center=true&vCenter=true&width=500&height=50&lines=🌱+Currently+learning+UI/UX+Design;✨+Exploring+Design+Systems;🎮+Learning+Game+Dev+with+Ren'Py;🤖+Tinkering+with+IoT+and+Arduino" alt="Learning"/>
+</div>
 
 <br/>
 
@@ -105,7 +104,6 @@
 <img src="https://skillicons.dev/icons?i=figma&theme=light" />
 <img src="https://img.shields.io/badge/Canva-F75590?style=for-the-badge&logo=canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe_XD-FFB6C1?style=for-the-badge&logo=adobexd&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prototyping-FFD93D?style=for-the-badge&logo=framer&logoColor=333333"/>
 
 <br/><br/>
 
@@ -114,35 +112,9 @@
 
 <br/><br/>
 
-### 🎮 Game Development
-<img src="https://img.shields.io/badge/Ren'Py-FFB6C1?style=for-the-badge&logo=renpy&logoColor=333333"/>
-<img src="https://img.shields.io/badge/Visual_Novel-F75590?style=for-the-badge&logo=bookstack&logoColor=white"/>
-
-<br/><br/>
-
-### 🤖 Hardware & IoT
+### 🎮 Game Development & IoT
 <img src="https://skillicons.dev/icons?i=arduino&theme=light" />
-<img src="https://img.shields.io/badge/IoT-FFB6C1?style=for-the-badge&logo=internetarchive&logoColor=333333"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 💫 Soft Skills
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🎤_Public_Speaking-FFD93D?style=for-the-badge&labelColor=FFD93D&color=FFB6C1"/>
-<img src="https://img.shields.io/badge/📊_Presentation-FFB6C1?style=for-the-badge&labelColor=FFB6C1&color=F75590"/>
-<img src="https://img.shields.io/badge/🎨_Design_Thinking-F75590?style=for-the-badge&labelColor=F75590&color=FFD93D"/>
-<br/>
-<img src="https://img.shields.io/badge/🧠_User_Research-FFD93D?style=for-the-badge&labelColor=FFB6C1&color=F75590"/>
-<img src="https://img.shields.io/badge/🤝_Teamwork-FFB6C1?style=for-the-badge&labelColor=F75590&color=FFD93D"/>
-<img src="https://img.shields.io/badge/✨_Creative_Thinking-F75590?style=for-the-badge&labelColor=FFD93D&color=FFB6C1"/>
+<img src="https://img.shields.io/badge/Ren'Py-FFB6C1?style=for-the-badge&logo=renpy&logoColor=333333"/>
 
 </div>
 
@@ -162,10 +134,6 @@
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=asayasa02&hide_border=true&background=FFF5F8&ring=F75590&fire=FFB6C1&currStreakLabel=F75590&sideLabels=FFB6C1&currStreakNum=555555&sideNums=555555&dates=999999&border_radius=15" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asayasa02&bg_color=FFFFFF&color=F75590&line=FFB6C1&point=FFD93D&area=true&area_color=FFB6C1&hide_border=true&radius=15" width="95%" />
 
 </div>
 
